@@ -1,5 +1,5 @@
 <?php
-echo 'test sample tamil';
+echo 'test sample suresh';
 echo 'test sample arasan';
 require .tes;
 ?>
