@@ -1,3 +1,5 @@
 <?php
-echo 'test sample';
+echo 'test sample tamil';
+echo 'test sample arasan';
+require .tes;
 ?>
